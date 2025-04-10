@@ -1,25 +1,25 @@
 # Advanced GitHub Projects for Design Teams
 
-Welcome to this interactive tutorial on customizing GitHub Projects for design workflows! This repository will guide you through creating and customizing a design project board using GitHub Projects V2.
+## Step 2: Add Custom Views to Your Project
+Now that you've created your project, let's set up multiple views to better manage your design workflow.
 
-## How This Works
-As you complete each step, this README will automatically update to show the next task. Follow along to learn advanced GitHub Projects customization step by step.
+### 📋 Task: Create Multiple Project Views
+Create the following views in your "Design Workflow" project:
+1. A "Kanban" board view with columns: "Ideation", "Design in Progress", "Ready for Review", "Approved"
+2. A "Table" view called "All Designs"
+3. A "Roadmap" view called "Design Timeline"
 
-## Step 1: Create a Design Project
-Let's start by creating a specialized project board for design workflows.
+To create a new view:
+- Click the dropdown menu next to the current view name (likely "Board")
+- Select "New view"
+- Choose the view type and give it a name
+- Configure the columns/layout as described above
 
-### 📋 Task: Create a Design Project
-1. Go to the "Projects" tab at the top of this repository
-2. Click "Create project"
-3. Select "Board" as the template
-4. Name your project "Design Workflow"
-5. Click "Create"
+Once completed, go to the **Actions** tab and run the "Complete Step 2" workflow to proceed to the next step.
 
-Once completed, go to the **Actions** tab and run the "Complete Step 1" workflow to proceed to the next step.
+### 📚 What are Project Views?
+Views allow you to look at your project data in different ways. A board view helps visualize workflow status, while table views show detailed information in rows and columns. Roadmap views help visualize work along a timeline. Having multiple views of the same data helps teams focus on what matters most for their specific needs.
 
-### 📚 What are GitHub Projects?
-GitHub Projects are tools that help teams plan and track their work directly within GitHub. They integrate with issues and pull requests, allowing for better organization and visualization of tasks.
+### ⏳ Waiting for you to create custom project views...
 
-### ⏳ Waiting for you to create a design project...
-
-<!-- STEP: 1 -->
+<!-- STEP: 2 -->
